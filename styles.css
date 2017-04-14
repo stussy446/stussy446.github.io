@@ -1,3 +1,39 @@
-body{
-	background-color: teal;
+table{
+	padding:2px;
+	margin-bottom: 8px;
+}
+
+img{
+	border: 2px solid teal;
+	margin: 8px 0px 8px 0px;
+	padding: 3px;
+}
+
+.centered{
+	display: block;
+	text-align: center;
+	font-size: 20px;
+}
+
+a:hover{
+	text-decoration: none;
+	color: purple;
+	font-weight: bold
+}
+
+a:visited{
+	color:red;
+
+
+#background{
+	background-image: url("images/ice.jpg")
+}
+
+#sharks{
+	color:red;
+}
+
+ol{
+	font-family: cursive;
+	font-size: 20px;
 }
